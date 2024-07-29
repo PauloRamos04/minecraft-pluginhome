@@ -1,0 +1,11 @@
+name: HomePlugin
+version: 1.0
+main: host.enxada.homeplugin.HomePlugin
+api-version: 1.21
+commands:
+  sethome:
+    description: Define uma home para o jogador
+    usage: /<command> <nome>
+  home:
+    description: Teleporta o jogador para uma home
+    usage: /<command> <nome>

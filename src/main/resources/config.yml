@@ -1,0 +1,6 @@
+teleportCooldown: 60
+showParticles: true
+database:
+  url: jdbc:mysql://localhost:3306/minecraft
+  user: root
+  password: password
